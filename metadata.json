@@ -1,0 +1,6 @@
+{
+  "name": "Skylight Laundry Cleaning Services",
+  "description": "Professional, premium, and reliable laundry, dry cleaning, and home/office cleaning services website with booking and quote calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
